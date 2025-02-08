@@ -55,8 +55,6 @@
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=tainguy22112000&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
  </div>
-
-<img src="https://raw.githubusercontent.com/tainguy22112000/tainguy22112000/output/snake.svg" alt="Snake animation" />
  
 <img align="left" alt="Jayden's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tainguy22112000&&show_icons=true&theme=dark" width="50%" />
 <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tainguy22112000&layout=compact&theme=dark" width="46%" />
